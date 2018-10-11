@@ -28,8 +28,9 @@ button {
 
 #content {
 	float: right;
-	width: 730px;
+	width: 60%;
 	margin-right: 100px;
+	margin-left: 100px;
 	margin-top: 5px;
 	display: inline;
 }
